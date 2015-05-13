@@ -1,4 +1,5 @@
 # Greenhorn
+[![Build status](https://ci.appveyor.com/api/projects/status/x3hclir2mwp89yjt?svg=true)](https://ci.appveyor.com/project/dguido/greenhorn)
 
 Greenhorn is a Windows Pwnable released during CSAW Quals 2014. It's meant to be an introduction to modern Windows binary exploitation.
 

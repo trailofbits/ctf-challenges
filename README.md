@@ -1,5 +1,7 @@
 # Greenhorn
 
+Greenhorn is a Windows Pwnable released during CSAW Quals 2014. It's meant to be an introduction to modern Windows binary exploitation.
+
 * Question Text: Find the key!
 * Answer: key{He may be angry all the time, but he's the only one that understand Windows DACLs}
 * To Distribute: greenhornd.exe

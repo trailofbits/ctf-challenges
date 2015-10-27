@@ -1,0 +1,23 @@
+Challenge: Sharp turn
+Category: Forensics
+Author: Ryan Stortz
+Points: 300 (or maybe more?)
+
+Question Text: I think my SATA controller is dying.
+Answer: flag{3b532e0a187006879d262141e16fa5f05f2e6752}
+
+Organizer Description:
+	This challenge is an (intentionally) corrupted git repo. There are 3 corruptions overall, each one is a single bit off 
+	and are all contained in individual files. Git's versioning provides enough information to rebuild the broken commits.
+
+To distribute:
+	sharpturn.tar.xz-07f57e28a86a3c8059da2584f6c5329d9e7bbe25
+
+Setup:
+	This challenge has no setup or server component. Just need to distribute the file above.
+
+Hints:
+	Hint 1 (give this out as soon as people start complaining the flag is wrong): 
+		git fsck -v
+	Hint 2 (don't give this one out unless they fail for days): 
+		http://thread.gmane.org/gmane.comp.version-control.git/236238

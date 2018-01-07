@@ -1,0 +1,7 @@
+Address: {a199e17e379b8555979c0ee711e2d0d21419cc3d}
+YIZM2PKpYEkW4r0I
+
+CONTRACT ADDRESS/ABI
+0x061d14f8d4cc06be5e706a229f5a311a2abdd8e3
+"[{\"constant\":true,\"inputs\":[],\"name\":\"get_flag\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"name\":\"data\",\"type\":\"uint256\"},{\"name\":\"data2\",\"type\":\"uint256\"},{\"name\":\"data3\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}]"
+

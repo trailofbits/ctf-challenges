@@ -1,0 +1,8 @@
+Address: {8a2572b231f7211696b7fefcbe7f5d72e577a80e}
+GEznnQE1bjsObgPS
+
+> storageAddress210
+"0xbfcae16d59e1f4fe6ded8a488a674c7eb7b5d3d1"
+> storageContractAbi210
+"[{\"constant\":true,\"inputs\":[],\"name\":\"get_flag\",\"outputs\":[{\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"name\":\"data\",\"type\":\"uint256\"},{\"name\":\"data2\",\"type\":\"uint256\"},{\"name\":\"data3\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}]"
+> 
